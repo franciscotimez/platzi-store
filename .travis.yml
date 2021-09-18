@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: franciscoespacio:CM552wNOMgXUJTGC1IMDKRex
   email:
     recipients:
       - franciscotimez@gmail.com
